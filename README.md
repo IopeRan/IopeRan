@@ -1,9 +1,5 @@
-# IopeRan
-
-
-
-
-
+# IopeRan (Erlang Andriyanputra)
+Hello World.
 
 # MY STATS
 
