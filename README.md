@@ -1,5 +1,5 @@
 # IopeRan (Erlang Andriyanputra)
-Hello World.
+# SMKN 2 Banjarmasin-X PPLG B-Student 2022
 
 # MY STATS
 [![](https://raw.githubusercontent.com/IopeRan/erlangstats/master/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
