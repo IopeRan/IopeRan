@@ -5,6 +5,7 @@
 [![](https://raw.githubusercontent.com/IopeRan/erlangstats/master/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/IopeRan/erlangstats/master/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/IopeRan/erlangstats/master/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IopeRan&show_icons=true&theme=transparent)
 
 
 # Language and Tools :
