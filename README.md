@@ -1,7 +1,8 @@
-# IopeRan (Erlang Andriyanputra)
-# SMKN 2 Banjarmasin-X PPLG B-Student 2022
-
-# MY STATS
+<div style="display: flex; justify-content: center;">
+  <h3>IopeRan(Erlang Andriyanputra)</h3>
+  <hr>
+  <h5>SMKN 2 Banjarmasin 2022 - PPLG B</h5>
+</div>
 
 [![](https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
