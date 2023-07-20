@@ -7,7 +7,7 @@
 <hr>
 
 <div align="center">
-  <h1>👋 Erlang Andriyanputra 👋</h1>
+  <h1>👋 Erlang <span color="red">Andriyanputra</span> 👋</h1>
   <p>SMKN 2 Banjarmasin - 2022</p>
   <hr>
 </div>
