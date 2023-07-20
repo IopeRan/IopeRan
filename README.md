@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<hr>
+
 <div align="center">
   <h1>👋 Erlang Andriyanputra 👋</h1>
   <p>SMKN 2 Banjarmasin - 2022</p>
