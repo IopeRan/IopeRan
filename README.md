@@ -4,11 +4,24 @@
   <hr>
 </div>
 
-<center>
-[![](https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</center>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos Per Language" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/3-stats.svg" alt="Stats" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/4-productive-time.svg" alt="Productive Time" />
+  </a>
+</p>
+
 
 # Language and Tools :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
