@@ -4,7 +4,7 @@
   <hr>
 </div>
 
-<div align="center"><
+<div align="center">
   <h5>My Stats</h5>                      
 /div>
 
