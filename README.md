@@ -34,7 +34,10 @@
 
 <p align="center">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Laragon" src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
+  <img alt="DBeaver" src="https://github.com/cednore/awesome-missing-markdown-badges/tree/master#dbeaver">
 </p>
+
 
 # Language and Tools :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
