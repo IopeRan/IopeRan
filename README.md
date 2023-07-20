@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Erlang Andriyanputra</h1>
-  <hr>
   <p>SMKN 2 Banjarmasin - 2022</p>
+  <hr>
 </div>
 
 [![](https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
