@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" />
+    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos Per Language" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language" />
   </a>
 </p>
 
@@ -29,12 +32,6 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos Per Language" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language" />
-  </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/3-stats.svg" alt="Stats" />
   </a>
