@@ -27,19 +27,6 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<div align="center">
-  <h2>My Stats</h2>                      
-</div>
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/3-stats.svg" alt="Stats" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/4-productive-time.svg" alt="Productive Time" />
-  </a>
-</p>
-
 <hr>
 
 <div align="center">
