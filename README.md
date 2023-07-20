@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h5>My Stats</h5>                      
+  <h2>My Stats</h2>                      
 </div>
 
 <p align="center">
