@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  ## My Stats
+  <h5>My Stats</h5>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/IopeRan/IopeRan/master/profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" />
   </a>
