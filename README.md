@@ -11,7 +11,8 @@
 
 <div align="center">
   <h1>👋 Erlang <span style="color:red;">Andriyanputra</span> 👋</h1>
-  <p>SMKN 2 Banjarmasin - 2022</p>
+  <h3>SMKN 2 Banjarmasin - 2022</h3>
+  <p>Pengembangan Perangkat Lunak dan Gim</p>
   <hr>
 </div>
 
